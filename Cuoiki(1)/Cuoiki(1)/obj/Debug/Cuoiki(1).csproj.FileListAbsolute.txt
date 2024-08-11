@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\bin\Debug\Cuoiki(1).exe.config
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\bin\Debug\Cuoiki(1).exe
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\bin\Debug\Cuoiki(1).pdb
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\obj\Debug\Cuoiki(1).csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\obj\Debug\Cuoiki_1_.Form1.resources
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\obj\Debug\Cuoiki_1_.Form2.resources
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\obj\Debug\Cuoiki_1_.Form3.resources
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\obj\Debug\Cuoiki_1_.Form4.resources
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\obj\Debug\Cuoiki_1_.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\obj\Debug\Cuoiki(1).csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\obj\Debug\Cuoiki(1).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\obj\Debug\Cuoiki(1).exe
+C:\Users\Administrator\source\repos\Cuoiki(1)\Cuoiki(1)\obj\Debug\Cuoiki(1).pdb
